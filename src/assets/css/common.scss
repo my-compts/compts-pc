@@ -1,0 +1,14 @@
+.animate-warning{
+  color:#ff6000;animation: text-warning 1s ease-in infinite;
+}
+@keyframes text-warning {
+  0%{
+      color:#fff000;
+  }
+  50%{
+      color:#ff0000;
+  }
+  100%{
+      color:#fff000;
+  }
+}
